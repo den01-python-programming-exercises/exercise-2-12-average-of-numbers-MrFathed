@@ -14,7 +14,7 @@ def main():
     
     average = sum_of_num / count
 
-    print("Average of the numbers: " + str(average))
+    print("Average of numbers: " + str(average))
 
 if __name__ == '__main__':
     main()
